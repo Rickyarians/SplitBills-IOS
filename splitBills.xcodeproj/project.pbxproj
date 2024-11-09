@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		739572642CDFB8870021C15D /* PartOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739572632CDFB8870021C15D /* PartOneView.swift */; };
 		73D0E3952CDE8BF50011B69C /* splitBillsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D0E3942CDE8BF50011B69C /* splitBillsApp.swift */; };
 		73D0E3972CDE8BF50011B69C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D0E3962CDE8BF50011B69C /* ContentView.swift */; };
 		73D0E3992CDE8BF80011B69C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73D0E3982CDE8BF80011B69C /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		739572632CDFB8870021C15D /* PartOneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartOneView.swift; sourceTree = "<group>"; };
 		73D0E3912CDE8BF50011B69C /* splitBills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = splitBills.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73D0E3942CDE8BF50011B69C /* splitBillsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splitBillsApp.swift; sourceTree = "<group>"; };
 		73D0E3962CDE8BF50011B69C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		73D0E3932CDE8BF50011B69C /* splitBills */ = {
 			isa = PBXGroup;
 			children = (
+				739572632CDFB8870021C15D /* PartOneView.swift */,
 				73D0E3942CDE8BF50011B69C /* splitBillsApp.swift */,
 				73D0E3962CDE8BF50011B69C /* ContentView.swift */,
 				73D0E3982CDE8BF80011B69C /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				73D0E39E2CDE8BF80011B69C /* Persistence.swift in Sources */,
 				73D0E3A12CDE8BF80011B69C /* splitBills.xcdatamodeld in Sources */,
+				739572642CDFB8870021C15D /* PartOneView.swift in Sources */,
 				73D0E3972CDE8BF50011B69C /* ContentView.swift in Sources */,
 				73D0E3952CDE8BF50011B69C /* splitBillsApp.swift in Sources */,
 			);
